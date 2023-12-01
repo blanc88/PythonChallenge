@@ -8,8 +8,8 @@ total number of months in the datatset, the net total amount of "Profit/Losses" 
 
 It will also print the analysis to the terminal and export a text file with the results appearing as below: 
 
+![image](https://github.com/blanc88/pythonChallenge/assets/147438530/451b1236-d279-4872-9390-30c206678569)
 
-![image](https://github.com/blanc88/python-challenge/assets/147438530/c375def9-1ae7-45c4-8edd-01cec8db4ecf)
 
 
 **PyPoll**
@@ -21,7 +21,8 @@ he task is to create a Python script that analyzes the votes and calculates each
 
 Final analysis should align with the following results in terminal as well as exporting a text file:
 
-![image](https://github.com/blanc88/python-challenge/assets/147438530/739f4458-e8ce-4021-9ae6-6205dbe9a0c1)
+
+![image](https://github.com/blanc88/pythonChallenge/assets/147438530/c3077107-d623-4d67-bdd8-9b3e9d8accf2)
 
 
 
